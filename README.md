@@ -28,14 +28,22 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
 
 ### ☁️ Enterprise Technologies
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
-*   ITSM, Flow Designer, App Engine Studio, IntegrationHub
+*   **Core Capabilities:** ITSM | Flow Designer | App Engine Studio | IntegrationHub
 
 ### 📡 RF & Embedded Systems
-*   **Simulation & Tools:** ANSYS HFSS, Antenna Design Optimization
-*   **Hardware & Protocols:** ESP32, Arduino, LoRa, IoT Networks
+![ANSYS](https://img.shields.io/badge/ANSYS_HFSS-FF6F00?style=for-the-badge&logo=ansys&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/ESP32_&_IoT-E3334E?style=for-the-badge&logo=espressif&logoColor=white)
+*   **Simulation & Design:** Antenna Design Optimization, Electromagnetic Modeling
+*   **Hardware Protocols:** LoRa, Microcontroller Architecture, Wireless IoT Networks
 
 ### 🤖 AI Engineering & Development Tools
-*   GitHub Copilot, Google Gemini, ChatGPT, Claude, Git, VS Code
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+*   **Workflows:** Claude AI Model Integration & Workflow Automation
 
 ---
 
