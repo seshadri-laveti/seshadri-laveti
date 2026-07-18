@@ -71,10 +71,10 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
 *   📚 NPTEL Advanced Certification Series
 
 ---
-
 ## 📊 My GitHub Performance
 
 ![Seshadri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seshadri-laveti&show_icons=true&theme=radial&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seshadri-laveti&layout=compact&theme=radial&hide_border=true)
 
 ---
