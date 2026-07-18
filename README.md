@@ -8,104 +8,75 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Electronics & Communication Engineering**
-- 💼 Building applications on the **ServiceNow Platform**
-- 📡 Designing **Microstrip Patch Antennas** using **ANSYS HFSS**
-- 🤖 Using **AI** to improve software development, research, and engineering workflows
-- 🌐 Interested in **Enterprise Automation, RF Engineering, IoT, and Embedded Systems**
-- 🚀 Currently learning **ServiceNow**, **Generative AI**, and **Cloud Technologies**
-- 🎯 Goal: Become a ServiceNow Developer and RF Engineering Researcher
+*   🎓 **Education:** Pursuing **B.Tech in Electronics & Communication Engineering**
+*   💼 **Enterprise Platforms:** Building and optimizing workflows on the **ServiceNow Ecosystem**
+*   📡 **RF Engineering:** Designing **Microstrip Patch Antennas** using **ANSYS HFSS**
+*   🤖 **AI Integration:** Leveraging **Generative AI** to accelerate development, research, and engineering workflows
+*   🌐 **Core Interests:** Enterprise Automation, RF Engineering, IoT, and Embedded Systems
+*   🎯 **Career Goal:** To excel as a ServiceNow Developer and an innovative RF Engineering Researcher
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### 💻 Programming
-- Python
-- C
-- HTML
-- CSS
+### 💻 Software & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ☁️ Enterprise Technologies
-- ServiceNow
-- ITSM
-- Flow Designer
-- App Engine Studio
-- IntegrationHub
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
+*   ITSM, Flow Designer, App Engine Studio, IntegrationHub
 
 ### 📡 RF & Embedded Systems
-- ANSYS HFSS
-- Antenna Design
-- ESP32
-- Arduino
-- LoRa
-- IoT
+*   **Simulation & Tools:** ANSYS HFSS, Antenna Design Optimization
+*   **Hardware & Protocols:** ESP32, Arduino, LoRa, IoT Networks
 
-### 🤖 AI Tools
-- ChatGPT
-- GitHub Copilot
-- Google Gemini
-- Claude
-
-### 🔧 Tools
-- Git
-- GitHub
-- VS Code
-- Arduino IDE
+### 🤖 AI Engineering & Development Tools
+*   GitHub Copilot, Google Gemini, ChatGPT, Claude, Git, VS Code
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 ### 📡 Dead Zone Killer (DZK)
-An emergency communication system using LoRa, ESP32, and AI-assisted workflows to enable connectivity in disaster-affected areas.
+*   An emergency communication system architecture utilizing LoRa networks and ESP32 nodes coupled with AI-assisted workflow parameters to enable structural connectivity in disaster-affected regions.
 
 ### 📶 HFSS Antenna Design
-Design and optimization of compact microstrip patch antennas for wireless communication using ANSYS HFSS.
+*   Design and optimization protocols for compact microstrip patch antennas tailored for high-frequency wireless communications using ANSYS HFSS.
 
 ### 💼 ServiceNow Applications
-Developing enterprise workflow automation and custom applications on the ServiceNow platform.
+*   Architecting customized enterprise workflow automation systems and deployment strategies utilizing the ServiceNow environment.
 
 ### 🌐 Ground Station Dashboard
-🔗 https://github.com/seshadri-laveti/dzkgroundstation
-
-Frontend-based dashboard for monitoring telemetry and visualizing communication data.
+*   A dedicated frontend-based dashboard built to parse live telemetry logs, monitor stream data, and visualize local communication matrices. Check the source directory at [dzkgroundstation](https://github.com/seshadri-laveti/dzkgroundstation).
 
 ---
 
 ## 📜 Certifications
 
-- ServiceNow Learning
-- Cisco Networking Academy
-- IBM SkillsBuild
-- Infosys Springboard
-- NPTEL
+*   🎓 ServiceNow Learning Paths
+*   🌐 Cisco Networking Academy Credentials
+*   💼 IBM SkillsBuild & Infosys Springboard Engineering Cohorts
+*   📚 NPTEL Advanced Certification Series
 
 ---
 
-## 🌱 Currently Learning
+## 📊 My GitHub Performance
 
-- ServiceNow Development
-- AI-Assisted Software Engineering
-- RF Antenna Optimization
-- Enterprise Automation
-- Cloud Technologies
+![Seshadri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seshadri-laveti&show_icons=true&theme=radial&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seshadri-laveti&layout=compact&theme=radial&hide_border=true)
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect
 
-💼 LinkedIn  
-https://www.linkedin.com/in/laveti-seshadri-018ab8348
-
-📧 Email  
-laviteseshadri465@gmail.com
-
-🌐 GitHub  
-https://github.com/seshadri-laveti
+*   💼 **LinkedIn:** [Seshadri Laveti on LinkedIn](https://www.linkedin.com/in/laveti-seshadri-018ab8348)
+*   📧 **Email:** [laviteseshadri465@gmail.com](mailto:laviteseshadri465@gmail.com)
+*   🐙 **GitHub Overview:** [github.com/seshadri-laveti](https://github.com/seshadri-laveti)
 
 ---
 
-## 💡 Quote
-
-**"Engineering intelligent solutions by combining AI, Enterprise Automation, and RF Innovation."**
+> ⭐ *"Building intelligent solutions through AI, enterprise automation, and RF engineering."*
