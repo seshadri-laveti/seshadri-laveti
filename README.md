@@ -100,6 +100,7 @@ https://www.linkedin.com/in/laveti-seshadri-018ab8348
 
 📧 Email  
 laviteseshadri465@gmail.com
+
 🌐 GitHub  
 https://github.com/seshadri-laveti
 
