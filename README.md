@@ -26,9 +26,6 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ☁️ Enterprise Technologies
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
-*   **Core Capabilities:** ITSM | Flow Designer | App Engine Studio | IntegrationHub
 
 ### 📡 RF & Embedded Systems
 ![ANSYS](https://img.shields.io/badge/ANSYS_HFSS-FF6F00?style=for-the-badge&logo=ansys&logoColor=white)
@@ -55,8 +52,7 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
 ### 📶 HFSS Antenna Design
 *   Design and optimization protocols for compact microstrip patch antennas tailored for high-frequency wireless communications using ANSYS HFSS.
 
-### 💼 ServiceNow Applications
-*   Architecting customized enterprise workflow automation systems and deployment strategies utilizing the ServiceNow environment.
+
 
 ### 🌐 Ground Station Dashboard
 *   A dedicated frontend-based dashboard built to parse live telemetry logs, monitor stream data, and visualize local communication matrices. Check the source directory at [dzkgroundstation](https://github.com/seshadri-laveti/dzkgroundstation).
@@ -65,7 +61,6 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
 
 ## 📜 Certifications
 
-*   🎓 ServiceNow Learning Paths
 *   🌐 Cisco Networking Academy Credentials
 *   💼 IBM SkillsBuild & Infosys Springboard Engineering Cohorts
 *   📚 NPTEL Advanced Certification Series
