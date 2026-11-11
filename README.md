@@ -9,7 +9,6 @@ I am an Electronics and Communication Engineering (ECE) student passionate about
 ## 👨‍💻 About Me
 
 *   🎓 **Education:** Pursuing **B.Tech in Electronics & Communication Engineering**
-*   💼 **Enterprise Platforms:** Building and optimizing workflows on the **ServiceNow Ecosystem**
 *   📡 **RF Engineering:** Designing **Microstrip Patch Antennas** using **ANSYS HFSS**
 *   🤖 **AI Integration:** Leveraging **Generative AI** to accelerate development, research, and engineering workflows
 *   🌐 **Core Interests:** Enterprise Automation, RF Engineering, IoT, and Embedded Systems
